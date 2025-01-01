@@ -65,4 +65,6 @@
 <!-- Joke 笑话 -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 </div>
-<p align="center"> <table> <h1 align="center">Github Stats</h1> <tr> <td><img alt="ibrahimkhalilullah :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=ibrahim2337&theme=tokyonight&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td> <!-- &hide=html --> <td> <img alt="Taherul Isalm :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim2337&langs_count=14&theme=tokyonight&layout=compact&hide=html"> </td> </tr> <tr> <td colspan="2" align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ibrahim2337&theme=tokyonight&hide_border=true"></td> </tr> </table></p>
+<div align="center">
+  <p align="center"> <table> <h1 align="center">Github Stats</h1> <tr> <td><img alt="ibrahimkhalilullah :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=ibrahim2337&theme=tokyonight&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td> <!-- &hide=html --> <td> <img alt="Taherul Isalm :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim2337&langs_count=14&theme=tokyonight&layout=compact&hide=html"> </td> </tr> <tr> <td colspan="2" align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ibrahim2337&theme=tokyonight&hide_border=true"></td> </tr> </table></p>
+</div>
