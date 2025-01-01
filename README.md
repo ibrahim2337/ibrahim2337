@@ -7,7 +7,7 @@
 
 </h1>
 
-<div  align="center">
+
   [![](https://visitcount.itsvg.in/api?id=taherul77&label=Profile%20Views&color=11&icon=5&pretty=true)](https://visitcount.itsvg.in)
 ![focus](https://img.shields.io/badge/focus-MERN%20Stack-brightgreen)
 ![living](https://img.shields.io/badge/living-Dhaka-blue)
@@ -18,7 +18,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
-</div>
+
 <h1> About Me </h1>
 🌱 I’m currently learning Java,Anguler <br> 💬 Ask me about React, Next JS HTML, CSS, Bootstrap, Tailwind CSS, JavaScript <br> 👨‍💻 All of my projects are available at(https://github.com/ibrahim2337) <br>📫 How to reach me <a href="mailto:ibrahimkhalilullah680@gmail.com" target="_blank" rel="noopener" >ibrahimkhalilullah680@gmail.com</a> 
 
