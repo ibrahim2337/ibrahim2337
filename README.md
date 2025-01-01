@@ -8,11 +8,13 @@
 </h1>
 
 
-  [![](https://visitcount.itsvg.in/api?id=taherul77&label=Profile%20Views&color=11&icon=5&pretty=true)](https://visitcount.itsvg.in)
+ <div align="center">
+    [![](https://visitcount.itsvg.in/api?id=taherul77&label=Profile%20Views&color=11&icon=5&pretty=true)](https://visitcount.itsvg.in)
 ![focus](https://img.shields.io/badge/focus-MERN%20Stack-brightgreen)
 ![living](https://img.shields.io/badge/living-Dhaka-blue)
 ![age](https://img.shields.io/badge/Age-26-blueviolet)
 [![Github](https://img.shields.io/github/followers/taherul77?label=Follow&style=social)](https://github.com/ibrahim2337)
+ </div>
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
